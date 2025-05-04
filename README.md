@@ -9,7 +9,7 @@ My Area of Specialization are mainly at these categories:
 - Machine Learning models development with AutoML
 - Network and DevOps 
 
-You can explore python web-application using Django frmaework at @face-rec repository. It uses OpenCV for image recognition. 
+You can explore python web-application using Django frmaework at @face-rec repository. It uses OpenCV for image recognition. If you like PicNic 🧺 then catch NLP app with Gemini API, and Node.js lover ? catch Node.js repo.
 
 
 <!--
