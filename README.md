@@ -1,6 +1,14 @@
 ## Hi there 👋
 
-🌱 I’m currently Developing Machine Learning and AI applications for education and technology. I like to learn new things ✨ and programming new cool apps. This Github Repository is my public profile and it is not updated daily. 
+🌱 I’m currently Developing Machine Learning and AI applications for education and technology. I like to learn new things ✨ and programming new cool apps. This Github Repository is my public profile and it is not updated daily.
+
+My Area of Specialization are mainly at these categories:
+
+- Full-stack Development in python and Javascript
+- Machine Learning models development with AutoML
+- Network and DevOps 
+
+
 
 <!--
 **mdalimoslemi/mdalimoslemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
