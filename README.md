@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-🌱 I’m currently Developing Machine Learning and AI applications for education and technology. I like to learn new things ✨ and programming new cool apps. This Github Repository is my public profile and it is not updated daily.
+🌱 I’m currently Developing Machine Learning and AI applications for education and technology. I like to learn new things ✨ and programming new cool apps.
+This Github Repository is my public profile and it is not updated daily. 😉
 
 My Area of Specialization are mainly at these categories:
 
@@ -8,6 +9,7 @@ My Area of Specialization are mainly at these categories:
 - Machine Learning models development with AutoML
 - Network and DevOps 
 
+You can explore python web-application using Django frmaework at @face-rec repository. It uses OpenCV for image recognition. 
 
 
 <!--
