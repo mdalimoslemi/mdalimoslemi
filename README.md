@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🌱 I’m currently Developing Machine Learning and AI applications for education and technology. I like to learn new things ✨ and programming new cool apps. This Github Repository is my public profile and it is not updated daily. 
+
 <!--
 **mdalimoslemi/mdalimoslemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
